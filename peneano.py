@@ -1,4 +1,3 @@
-from time import gmtime, strftime
 from termcolor import colored
 import os
 
