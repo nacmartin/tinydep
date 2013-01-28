@@ -1,5 +1,5 @@
 from distutils.core import setup
-setup(name='peneano',
+setup(name='tinydep',
       version='1.0',
-      py_modules=['peneano'],
+      py_modules=['tinydep'],
       )
