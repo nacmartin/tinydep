@@ -1,1 +1,1 @@
-tinydep is a small library to easy deploys
+tinydep is a small library for easy/simple/quick&dirty deploys or just running commands that provide a failback command in case something in the series of tasks fails
